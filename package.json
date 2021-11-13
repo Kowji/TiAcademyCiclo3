@@ -1,12 +1,12 @@
 {
-  "name": "ciclo3",
+  "name": "node",
   "version": "1.0.0",
-  "description": "Sistema para controle de serviços e pedidos",
+  "description": "sistema para controle de serviços e pedidos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vinícius Andrei",
+  "author": "Pedro M",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
@@ -16,6 +16,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14",
-    "sequelize-cli": "^5.4.0"
+    "sequelize-cli": "^6.2.0"
   }
 }
